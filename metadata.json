@@ -1,0 +1,6 @@
+{
+  "name": "Semáforo CV - Evaluador de Hojas de Vida",
+  "description": "Herramienta automatizada de evaluación y optimización de hojas de vida con diagnóstico de tres niveles (Verde, Azul, Rojo) y recomendaciones accionables para candidatos y reclutadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
